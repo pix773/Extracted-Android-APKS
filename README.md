@@ -2,3 +2,5 @@
 Folder of extracted APKS
 
 Most of them are from Google, for easier navigation. I made folders with the app dev names
+
+Copyright to original app makers
